@@ -21,6 +21,3 @@ This Repository contains my personal notes and hands-on code examples from my le
 
 ## Disclaimer
 These notes are my **personal summaries and interpretations** of Oracle's public Java courses. All content has been paraphrased or rephrased using my understanding and AI assistance. They are **not affiliated with or endorsed by Oracle**.
-
-## License
-This Repository is licensed under the [MIT License](LICENSE), meaning you're free to use, share, and modify it with proper attribution.
